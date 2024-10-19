@@ -46,6 +46,8 @@ network interface and forwards them to other network interfaces that connect to 
 This enables administrators to wake up devices across network boundaries without modifying the underlying network
 infrastructure (such as routers or firewalls) to forward broadcast traffic.
 
+<kbd><img src="https://github.com/user-attachments/assets/db5edb88-70ea-4d17-8c79-66eaff0e10ec" /></kbd>
+
 ## Security Considerations
 
 While WOLProxy provides a useful service for forwarding Wake-on-LAN (WOL) packets between network segments, it is
